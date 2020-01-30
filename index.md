@@ -162,7 +162,11 @@ or anything else, please get in touch.
 All participants are required to abide by The Carpentries <a href="{{
 site.swc_site }}/conduct/">Code of Conduct</a>.
 
-
+ <h3>Registration</h3>
+ <strong> Please complete the registration at this link:</strong>
+    <a href=" http://reg.conferences.dce.ufl.edu/SSP/1400075791">REGISTRATION LINK</a>
+   
+  </strong>
 
 <h3 id="contact">Contact</h3>
 <p>
