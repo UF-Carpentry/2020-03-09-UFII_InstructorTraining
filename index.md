@@ -3,6 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "us"       # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+event_title:  "Carpentries Instructor Training"     # optional: brief title of the event (e.g. "Data Carpentry - Geospatial Workshop")
+venue: "University of Florida Informatics Institute"        # brief name of host site without address (e.g., "Euphoric State University")
 humandate: "March 9-10, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
