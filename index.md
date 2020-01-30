@@ -9,8 +9,7 @@ enddate: 2020-03-10        # machine-readable end date for the workshop in YYYY-
 instructor: ["SherAaron Hurt, Karen Word"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Brian Stucky"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: "stuckyb@flmnh.ufl.edu"      # contact email address for host, lead instructor, or whoever else is handling questions
-etherpad:  "http://pad.software-carpentry.org/2020-03-30-UFII_InstructorTraining"                  # optional: URL for the workshop Etherpad if there is one
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+etherpad:  "http://pad.software-carpentry.org/2020-03-30-UFII_InstructorTraining"                  # optional: URL for the workshop 
 locations:
 
 venue: "University of Florida Informatics Institute"        # brief name of host site without address (e.g., "Euphoric State University")
