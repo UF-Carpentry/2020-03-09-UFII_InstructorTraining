@@ -10,13 +10,14 @@ enddate: 2020-03-10        # machine-readable end date for the workshop in YYYY-
 instructor: ["SherAaron Hurt, Karen Word"] 
 helper: ["Brian Stucky"]     
 contact: "stuckyb@flmnh.ufl.edu"    
-locations:
-venue: "University of Florida Informatics Institute"        
-address: "Informatics Institute Conference Room, CISE building"     
-latitude: "29.648292"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-82.344092"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 etherpad:  "http://pad.software-carpentry.org/2020-03-30-UFII_InstructorTraining"                 
-  
+
+locations:
+  - venue: "Online"
+    address: "https://carpentries.zoom.us/j/FIXME"
+  - venue: "University of Florida Informatics Institute"        
+    address: "Informatics Institute Conference Room, CISE building"     
+    latlng: "29.648292, -82.344092"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 ---
 
 
