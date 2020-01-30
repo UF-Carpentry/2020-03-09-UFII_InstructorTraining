@@ -3,19 +3,19 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "USA"       # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+
 humandate: "March 9-10, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-03-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["SherAaron Hurt, Karen Word"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Brian Stucky"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["SherAaron Hurt, Karen Word"] 
+helper: ["Brian Stucky"]     
 contact: "stuckyb@flmnh.ufl.edu"      # contact email address for host, lead instructor, or whoever else is handling questions
 etherpad:  "http://pad.software-carpentry.org/2020-03-30-UFII_InstructorTraining"                  # optional: URL for the workshop 
 locations:
-
-venue: "University of Florida Informatics Institute"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Informatics Institute Conference Room, CISE building"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-latlng: "29.648248,-82.344031" 
+-venue: "University of Florida Informatics Institute"        
+  address: "Informatics Institute Conference Room, CISE building"     
+  latlng: "29.648248,-82.344031" 
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
