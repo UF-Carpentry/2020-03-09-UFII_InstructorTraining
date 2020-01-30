@@ -11,10 +11,7 @@ instructor: ["SherAaron Hurt, Karen Word"]
 helper: ["Brian Stucky"]     
 contact: "stuckyb@flmnh.ufl.edu"    
 etherpad:  "http://pad.software-carpentry.org/2020-03-30-UFII_InstructorTraining"                 
-
 locations:
-  - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
   - venue: "University of Florida Informatics Institute"        
     address: "Informatics Institute Conference Room, CISE building"     
     latlng: "29.648292, -82.344092"     # decimal latitude of workshop venue (use https://www.latlong.net/)
