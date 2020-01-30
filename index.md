@@ -12,11 +12,13 @@ helper: ["Brian Stucky"]
 contact: "stuckyb@flmnh.ufl.edu"    
 etherpad:  "http://pad.software-carpentry.org/2020-03-30-UFII_InstructorTraining"                 
 locations:
-  venue: "University of Florida Informatics Institute"        
-  address: "Informatics Institute Conference Room, CISE building"     
-  latlng: "29.648248,-82.344031" 
+  
+  -venue: "University of Florida Informatics Institute"        
+   address: "Informatics Institute Conference Room, CISE building"     
+   latlng: "29.648248,-82.344031" 
   
 ---
+
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
 
